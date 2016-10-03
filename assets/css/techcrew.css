@@ -1,0 +1,184 @@
+@media(min-width: 768px){
+    body{
+        padding-top: 100px;
+    }
+    
+    .carousel-caption p {
+        margin-bottom: 20px;
+        font-size: 21px;
+        line-height: 1.4;
+    }
+}
+
+
+body#tc-body{
+    overflow-x: hidden;
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;  
+}
+
+.navbar-default{
+    background-color: #000;
+}
+
+.navbar-brand{
+    height: 100px;
+}
+
+.navbar-nav li a{
+    line-height: 65px;
+}
+
+.navbar-nav li a img{
+    padding-top: 20px;   
+}
+
+.navbar-nav li a img:hover{
+    filter: grayscale(1);
+    filter: gray;
+    -webkit-filter: grayscale(1);
+    opacity: 0.4;
+}
+
+@media(max-width: 767px){
+    .navbar-nav li a{
+        line-height: 20px;   
+    }
+}
+
+.navbar .nav > li > a{
+    color: #ffffff; 
+    font-weight: bold;
+    vertical-align: bottom;
+}
+
+.navbar .nav > li > a:hover{
+    color: #999;
+}
+
+.navbar .nav > li > a:active, .navbar .nav > li > a:focus{
+    color: #ccc;   
+}
+
+main#tc-main{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    min-height: 2000px;
+}
+
+main section{
+    margin: 1em;
+    padding: 1em;
+}
+
+.bg-fixed {
+    background-attachment: fixed;
+    width: 100%;
+    padding: 25% 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+}     
+
+@media (max-device-width: 767px){
+    .bg-fixed{
+        background-attachment: scroll;
+        background-position: 0% 0%;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px){
+    .bg-fixed{
+        background-attachment: scroll;
+        background-position: 0% 0%;
+    }
+}
+
+.bg-fixed-text{
+    color: white;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.bg-fixed .attribution{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+@media(min-width: 768px){
+    .bg-fixed .attribution{
+        background: #000;
+        opacity: 0.8; 
+        padding: 10px;
+    }
+
+    .bg-fixed .attribution p{
+        color: white;
+        opacity: 0.8;
+        padding: 10px;
+    }
+}
+
+@media(max-width: 767px){
+    .bg-fixed .attribution p{
+        color: white;
+        opacity: 0.8;
+        padding: 5px;
+    }
+}
+
+p{
+	text-align: justify;
+}
+
+#lead-image{
+    background-image: url('../img/im-1.jpg');
+}
+
+#im-2{
+    background-image: url('../img/im-2.jpg');
+}
+
+#im-3{
+    background-image: url('../img/im-3.jpg');
+}
+
+#im-4{
+    background-image: url('../img/im-4.jpg');
+}
+
+#im-5{
+    background-image: url('../img/im-5.jpg');
+}
+
+#im-6{
+    background-image: url('../img/im-6.jpg');   
+}
+
+div#lead-image .bg-fixed-text h1{
+ font-size: 4.4em;   
+}
+
+@media(max-width: 767px){
+    div#lead-image .bg-fixed-text h1{
+        font-size: 3.2em;
+    }
+}
+
+div#lead-image .bg-fixed-text h1 small{
+    display: block;
+}
+
+h4 small{
+    display: block;
+}
+
+footer{
+ background-color: #000;
+ padding: 10px;
+    color: #999;
+}

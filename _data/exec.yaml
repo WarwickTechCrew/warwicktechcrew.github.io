@@ -1,0 +1,38 @@
+- year: 22/23
+  people:
+    - name: Jon Kowalski
+      photo: president.jpg
+      roles:
+        - President
+        - Equal Opps Officer
+
+    - name: Adam Skrzymowski
+      photo: vice-pres.jpg
+      roles:
+        - Vice President
+    
+    - name: Harry Knight
+      photo: treasurer.jpg
+      roles:
+        - Treasurer
+        - Safety Officer
+    
+    - name: Maddie Cotton
+      photo: secretary.jpg
+      roles:
+        - Secretary
+        - Equal Opps Officer
+    
+    - name: Ed Price
+      photo: socials.jpg
+      roles:
+        - Socials and Publicity Secretary
+        - Welfare Officer
+    
+    - name: Ella Horne
+      photo: training.jpg
+      roles:
+        - Training Manager
+        - Socials and Publicity Secretary
+
+- year: 21/22

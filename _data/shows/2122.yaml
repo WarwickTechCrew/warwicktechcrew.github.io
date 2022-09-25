@@ -106,6 +106,7 @@ terms:
   - name: The Marksman
     society: Opera Warwick
     venue: Warwick Arts Centre Theatre
+    people:
     - role: Sound Designer
       name: Jon Kowalski
     - role: Lighting Designer

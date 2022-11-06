@@ -1,0 +1,21 @@
+year: 2022 / 2023
+
+terms:
+- name: Term 1
+  shows:
+  - name: 35mm
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Tech Manager
+      name: Ben McHugh
+    - role: Lighting Designer
+      name: Ed Price
+    - role: Sound Designer
+      name: Jon Kowalski
+    - role: Video Designer
+      name: Ethan Graham
+    - role: Stage Manager
+      name: Cat Heald
+    - role: Deputy Stage Manager
+      name: Maddie Cotton

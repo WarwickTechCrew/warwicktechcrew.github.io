@@ -7,7 +7,7 @@ terms:
     society: MTW
     venue: Warwick Arts Centre Studio
     people:
-    - role: Tech Manager
+    - role: Technical Manager
       name: Ben McHugh
     - role: Lighting Designer
       name: Ed Price
@@ -19,3 +19,19 @@ terms:
       name: Cat Heald
     - role: Deputy Stage Manager
       name: Maddie Cotton
+  - name: Entertaining Mr. Sloane
+    society: WUDS
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Technical Manager
+      name: Ed Price
+    - role: Lighting Designer
+      name: Chris Davis
+    - role: Sound Designer
+      name: Vincci Chung
+    - role: Set Designer
+      name: Adam Skrzymowski
+    - role: Stage Manager
+      name: James Mays
+    - role: Deputy Stage Manager
+      name: Cat Heald

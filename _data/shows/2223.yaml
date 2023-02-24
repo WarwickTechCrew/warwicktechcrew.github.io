@@ -35,3 +35,21 @@ terms:
       name: James Mays
     - role: Deputy Stage Manager
       name: Cat Heald
+- name: Term 2
+  shows:
+  - name: Fame
+    society: MTW
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Co-Technical Managers
+      name: Ed Price & Adam Skrzymowski
+    - role: Lighting Designer
+      name: Chris Davis
+    - role: Sound Designer
+      name: Jon Kowalski
+    - role: Set Designer
+      name: Harry Knight
+    - role: Stage Manager
+      name: Anis Tam
+    - role: Deputy Stage Manager
+      name: Maddie Cotton

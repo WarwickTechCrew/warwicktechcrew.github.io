@@ -28,9 +28,9 @@ terms:
     venue: Warwick Arts Centre Theatre
     people:
     - role: Tech Manager
-      name: Jonathan Moss
+      name: Amanda Fleming
     - role: Prime Minister
-      name: Boris Johnson
+      name: Who the f*ck knows anymore
     links:
     - name: Images
       label: Happy

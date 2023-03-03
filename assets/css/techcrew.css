@@ -139,12 +139,12 @@ main section{
 }*/
 
 #lead-image{
-    background-image: url('../img/im-1.jpg');
+    background-image: url('../img/Marksman.jpg');
 }
 
-/* #im-2{
-    background-image: url('../img/im-2.jpg');
-} */
+#im-2{
+    background-image: url('../img/im-1.jpg');
+} 
 
 #im-3{
     background-image: url('../img/im-3.jpg');

@@ -38,7 +38,7 @@ terms:
 - name: Term 2
   shows:
   - name: Fame
-    society: MTW
+    society: MTW x Tech Crew
     venue: Warwick Arts Centre Theatre
     people:
     - role: Co-Technical Managers
@@ -53,3 +53,18 @@ terms:
       name: Anis Tam
     - role: Deputy Stage Manager
       name: Maddie Cotton
+  - name: A Noble Game
+    society: Freshblood
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Co-Technical Managers
+      name: Bryce McHugh and Ella Horne
+    - role: Lighting Designer
+      name: Cat Heald and Ella Horne
+    - role: Sound Designer
+      name: Josh Heng
+    - role: Set Designer
+      name: Sophia Hollingworth and Saumya Shah
+    - role: Stage Manager
+      name: Ellie Dickens and Freya Cox
+

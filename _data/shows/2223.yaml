@@ -37,6 +37,16 @@ terms:
       name: Cat Heald
 - name: Term 2
   shows:
+  - name: AssemblyWoman
+    society: Warwick Classics
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Lighting Designer
+      name: Adam Skrzymowski
+    - role: Sound Designer
+      name: Ethan Graham
+    - role: Deputy Stage Manager
+      name: Cat Heald
   - name: Fame
     society: MTW x Tech Crew
     venue: Warwick Arts Centre Theatre

@@ -77,4 +77,20 @@ terms:
       name: Sophia Hollingworth and Saumya Shah
     - role: Stage Manager
       name: Ellie Dickens and Freya Cox
+  - name: Manon
+    society: Warwick Opera
+    venue: Warwick Arts Centre Theatre
+    people:
+    - role: Technical Manager
+      name: Edwin Price
+    - role: Lighting Designer
+      name: Rowan Mather and Saskia Jessop
+    - role: Sound Designer
+      name: Vincci Chung and James Mays
+    - role: Set Designer
+      name: Emily Napier and Sofia Kolb
+    - role: Stage Manager
+      name: Olivia Baird
+    - role: Deputy Stage Manager
+      name: Sabina Bonciu
 

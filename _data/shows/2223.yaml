@@ -94,32 +94,32 @@ terms:
     - role: Deputy Stage Manager
       name: Sabina Bonciu
  
-  - name: Term 3
-    shows:
-    - name: Curtain Call
-      society: MTW
-      venue: Warwick Arts Centre Studio
-      people:
-      - role: Lighting Designer
-        name: Ed Price
-      - role: Sound Designer
-        name: Adam Skrzymowski
-      - role: Stage Manager
-        name: Freya Cox
-    - name: Downpour
-      society: Codpiece
-      venue: Warwick Arts Centre Studio
-      people:
-      - role: Technical Manager
-        name: Ella Horne
-      - role: Lighting Designer
-        name: Chris Davis and Ben Hammond
-      - role: Sound Designer
-        name: Freya Cox
-      - role: Set Designer
-        name: Ed Price
-      - role: Stage Manager
-        name: Ellie Woolston
-      - role: Deputy Stage Manager
-        name: Josh Heng
+- name: Term 3
+  shows:
+  - name: Curtain Call
+    society: MTW
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Lighting Designer
+      name: Ed Price
+    - role: Sound Designer
+      name: Adam Skrzymowski
+    - role: Stage Manager
+      name: Freya Cox
+  - name: Downpour
+    society: Codpiece
+    venue: Warwick Arts Centre Studio
+    people:
+    - role: Technical Manager
+      name: Ella Horne
+    - role: Lighting Designer
+      name: Chris Davis and Ben Hammond
+    - role: Sound Designer
+      name: Freya Cox
+    - role: Set Designer
+      name: Ed Price
+    - role: Stage Manager
+      name: Ellie Woolston
+    - role: Deputy Stage Manager
+      name: Josh Heng
 

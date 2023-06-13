@@ -1,7 +1,7 @@
 - year: 23/24
   people:
     - name: Adam Skrzymowski
-      photo: vice-pres.jpg
+      photo: adam.jpg
       roles:
         - President
 
@@ -12,7 +12,7 @@
         - Vice President
     
     - name: Jon Kowalski
-      photo: president.jpg
+      photo: jon.jpg
       roles:
         - Treasurer
         - Safety Officer
@@ -36,7 +36,7 @@
         - Equal Opportunities Officer
         
     - name: Cat Heald
-      photo: blank-avatar.jpg
+      photo: blank-avatar.png
       roles:
         - Socials and Publicity Secretary
         - Equal Opportunities Officer

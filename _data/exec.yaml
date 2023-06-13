@@ -1,38 +1,44 @@
-- year: 22/23
+- year: 23/24
   people:
-    - name: Jon Kowalski
-      photo: president.jpg
-      roles:
-        - President
-        - Equal Opps Officer
-
     - name: Adam Skrzymowski
       photo: vice-pres.jpg
       roles:
+        - President
+
+    - name: Ben Hammond
+      photo: ben.jpg
+      roles:
+        - Operations Manager
         - Vice President
     
-    - name: Harry Knight
-      photo: treasurer.jpg
+    - name: Jon Kowalski
+      photo: president.jpg
       roles:
         - Treasurer
         - Safety Officer
     
-    - name: Maddie Cotton
-      photo: secretary.jpg
+    - name: Ella Horne
+      photo: ella.jpg
       roles:
         - Secretary
-        - Equal Opps Officer
-    
-    - name: Ed Price
-      photo: socials.jpg
-      roles:
-        - Socials and Publicity Secretary
         - Welfare Officer
     
-    - name: Ella Horne
-      photo: training.jpg
+    - name: Freya Cox
+      photo: freya.jpg
       roles:
         - Training Manager
+        - Welfare Officer
+    
+    - name: Kit Calvert
+      photo: kit.jpg
+      roles:
         - Socials and Publicity Secretary
+        - Equal Opportunities Officer
+        
+    - name: Cat Heald
+      photo: blank-avatar.jpg
+      roles:
+        - Socials and Publicity Secretary
+        - Equal Opportunities Officer
 
-- year: 21/22
+- year: 23/24

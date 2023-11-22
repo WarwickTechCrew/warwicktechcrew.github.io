@@ -1,0 +1,19 @@
+year: 2023 / 2024
+
+terms:
+- name: Term 1
+  shows:
+    - name: Hedda Gabler
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Anis Tam
+        - role: Lighting Designer
+          name: Ella Horne
+        - role: Sound Designer
+          name: Kishan Sharma
+        - role: Stage Manager
+          name: Casper Hawkins
+        - role: Deputy Stage Manager
+          name: Cat Heald

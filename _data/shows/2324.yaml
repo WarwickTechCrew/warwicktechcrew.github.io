@@ -17,3 +17,19 @@ terms:
           name: Casper Hawkins
         - role: Deputy Stage Manager
           name: Cat Heald
+- name: Term 2
+  shows:
+    - name: A Streetcar Named Desire
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Technical Manager
+          name: Jon Kowalski
+        - role: Lighting Designer
+          name: Dallon Costello
+        - role: Sound Designer
+          name: Kishan Sharma
+        - role: Stage Manager
+          name: Tango Tang
+        - role: Deputy Stage Manager
+          name: Josh Heng

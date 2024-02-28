@@ -33,3 +33,18 @@ terms:
           name: Tango Tang
         - role: Deputy Stage Manager
           name: Josh Heng
+    - name: Carmen
+      society: Warwick Opera
+      venue: Warwick Arts Centre Theatre
+      people:
+        - role: Lighting Designer
+          name: Adam Skrzymowski and Alasdair King
+        - role: Sound Designer
+          name: Josh Heng
+        - role: Stage Manager
+          name: Danny Turner
+        - role: Set Designer
+          name: Kit Calvert
+        - role: Deputy Stage Manager
+          name: Cat Heald and Jon Kowalski
+          

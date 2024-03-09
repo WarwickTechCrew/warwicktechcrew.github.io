@@ -47,4 +47,32 @@ terms:
           name: Kit Calvert
         - role: Deputy Stage Manager
           name: Cat Heald and Jon Kowalski
+    - name: Company
+      society: MTW
+      venue: Warwick Arts Centre Theatre
+      people:
+        - role: Technical Manager
+          name: Ella Horne
+        - role: Lighting Designer
+          name: Ben Hammond
+        - role: Sound Designer
+          name: Ethan Graham
+        - role: Stage Manager
+          name: Ellie Dickens
+        - role: Set Designer
+          name: Anis Tam
+        - role: Deputy Stage Manager
+          name: Alex Morrison
+    - name: Electra
+      society: WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Lighting Designer
+          name: Layah Rothen
+        - role: Sound Designer
+          name: Amanda Fleming and Danny Turner
+        - role: Stage Manager
+          name: Neera Cheung
+        - role: Deputy Stage Manager
+          name: Dae Pomeroy
           

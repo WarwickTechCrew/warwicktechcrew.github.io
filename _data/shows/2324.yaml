@@ -81,6 +81,8 @@ terms:
       society: MTW
       venue: Warwick Arts Centre Studio
       people:
+        - role: Technical Manager
+          name: Ben Hammond and Ellie Dickens
         - role: Lighting Designer
           name: Ben Hammond
         - role: Sound Designer
@@ -89,3 +91,5 @@ terms:
           name: Neera Cheung
         - role: Deputy Stage Manager
           name: Connie Locker
+        - role: Followspot
+          name: Ethan Graham and Stan Simmons

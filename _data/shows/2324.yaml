@@ -75,4 +75,17 @@ terms:
           name: Neera Cheung
         - role: Deputy Stage Manager
           name: Dae Pomeroy
-          
+- name: Term 3
+  shows:
+    - name: Godspell
+      society: MTW
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Lighting Designer
+          name: Ben Hammond
+        - role: Sound Designer
+          name: Josh Heng and Kishan Sharma 
+        - role: Stage Manager
+          name: Neera Cheung
+        - role: Deputy Stage Manager
+          name: Connie Locker

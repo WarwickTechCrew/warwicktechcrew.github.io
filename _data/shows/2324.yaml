@@ -93,3 +93,17 @@ terms:
           name: Connie Locker
         - role: Followspot
           name: Ethan Graham and Stan Simmons
+    - name: The Tempest
+      society: Shakesoc x WUDS
+      venue: Warwick Arts Centre Studio
+      people:
+        - role: Lighting Designer
+          name: Dallon Costello
+        - role: Sound Designer
+          name: Freya Cox 
+        - role: Sound 1
+          name: Rebecca Smith
+        - role: Stage Manager
+          name: Georgi Gibbons
+        - role: Deputy Stage Manager
+          name: Tango Tang

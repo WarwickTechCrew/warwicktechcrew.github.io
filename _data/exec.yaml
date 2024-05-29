@@ -1,44 +1,45 @@
-- year: 23/24
+- year: 24/25
   people:
-    - name: Adam Skrzymowski
-      photo: adam.jpg
+    - name: Ben Hammond
+      photo: ben.png
       roles:
         - President
 
-    - name: Ben Hammond
-      photo: ben.jpg
+    - name: Stan Simmons
+      photo: stan.png
       roles:
-        - Operations Manager
+        - Hires Manager
         - Vice President
     
-    - name: Jon Kowalski
-      photo: jon.jpg
+    - name: Josh Heng
+      photo: josh.png
       roles:
         - Treasurer
-        - Safety Officer
     
-    - name: Ella Horne
-      photo: ella.jpg
+    - name: Kishan Sharma
+      photo: kishan.png
       roles:
         - Secretary
-        - Welfare Officer
     
     - name: Freya Cox
-      photo: freya.jpg
+      photo: freya.png
       roles:
         - Training Manager
-        - Welfare Officer
     
-    - name: Kit Calvert
-      photo: kit.jpg
+    - name: Ethan Graham
+      photo: ethan.png
       roles:
-        - Socials and Publicity Secretary
-        - Equal Opportunities Officer
+        - Equipment Manager
+        - Saftey Officer
         
-    - name: Cat Heald
-      photo: cat.jpg
+    - name: Kit Calvert
+      photo: kit.png
+      roles:
+        - Socials and Publicity Secretary
+        - Welfare Officer
+        
+    - name: Danny Turner
+      photo: danny.png
       roles:
         - Socials and Publicity Secretary
         - Equal Opportunities Officer
-
-- year: 23/24
